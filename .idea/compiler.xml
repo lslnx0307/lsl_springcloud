@@ -13,13 +13,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="springcloud_eureka_client_order_8002" target="1.8" />
       <module name="springclound_eureka_client_order_8002" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="springcloud_eureka_client_order_8002" options="-parameters" />
+      <module name="springcloud_eureka_client_order_8002" options="" />
       <module name="springcloud_eureka_client_order_8003" options="" />
       <module name="springcloud_eureka_client_user_8001" options="-parameters" />
       <module name="springcloudeureka_server" options="-parameters" />
