@@ -1,4 +1,4 @@
-package com.lsl.springclound_eureka_client_order_8002;
+package com.lsl.springcloud_ribbon;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringcloundEurekaClientOrder8002ApplicationTests {
+public class SpringcloudRibbonApplicationTests {
 
     @Test
     public void contextLoads() {
