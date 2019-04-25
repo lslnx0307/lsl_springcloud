@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springcloud_eureka_client_order_8002" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springcloud_eureka_client_order_8002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud_eureka_client_order_8003" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud_eureka_client_user_8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_eureka_order_8002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud_ribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudeureka_server" charset="UTF-8" />
   </component>

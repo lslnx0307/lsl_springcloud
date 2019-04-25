@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/springclound_eureka_client_order_8002/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud_eureka_client_order_8003/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud_ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_order_8002/pom.xml" />
       </list>
     </option>
   </component>
