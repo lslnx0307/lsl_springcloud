@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/springcloud_eureka_server_9000/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud_euraka_server_9002/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud_eureka_server_9002/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_feign_8000/pom.xml" />
       </list>
     </option>
   </component>
