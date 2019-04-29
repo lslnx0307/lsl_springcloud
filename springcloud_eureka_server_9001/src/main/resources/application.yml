@@ -1,0 +1,12 @@
+server:
+  port: 9001
+spring:
+  application:
+   name: eureka-server-9001
+eureka:
+  client:
+    service-url:
+      defaultZone: http://server1:9000/eureka/, http://server3:9002/eureka/
+  instance:
+    hostname: server2
+

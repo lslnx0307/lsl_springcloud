@@ -21,8 +21,8 @@ public class MainConfig {
         return new RestTemplate();
     }
 
-    @Bean
-    public IRule lslRule() {
-        return new RandomRule();
-    }
+//    @Bean
+//    public IRule lslRule() {
+//        return new RandomRule();
+//    }
 }
