@@ -13,6 +13,7 @@
         <module name="springcloud_eureka_server_9001" />
         <module name="springcloud_eureka_server_9002" />
         <module name="springcloud_feign_8000" />
+        <module name="springcloud_hystrix_command" />
         <module name="springcloud_ribbon" />
       </profile>
     </annotationProcessing>
@@ -29,6 +30,7 @@
       <module name="springcloud_eureka_server_9001" options="-parameters" />
       <module name="springcloud_eureka_server_9002" options="-parameters" />
       <module name="springcloud_feign_8000" options="-parameters" />
+      <module name="springcloud_hystrix_command" options="-parameters" />
       <module name="springcloud_ribbon" options="-parameters" />
     </option>
   </component>
