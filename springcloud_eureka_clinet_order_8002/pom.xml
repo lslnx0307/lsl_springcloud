@@ -10,6 +10,7 @@
     <groupId>com.lsl</groupId>
     <artifactId>springcloud_eureka_clinet_order_8002</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+          springcloud_eureka_clinet_order_8002
     <name>springcloud_eureka_client_order_8002</name>
     <description>Demo project for Spring Boot</description>
 
